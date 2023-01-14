@@ -54,7 +54,7 @@ public class exercicioFarmacia {
 			
 		}
 	}
-	package exercicioPoo;
+
 
 	public class perfumaria extends farmacia{
 		private String marca;
@@ -80,7 +80,7 @@ public class exercicioFarmacia {
 
 		    }
 		
-		package exercicioPoo;
+	
 
 		public class medicamentos extends farmacia {
 			
@@ -106,7 +106,7 @@ public class exercicioFarmacia {
 			}
 		}
 
-		package exercicioPoo;
+	
 
 		public class farmaciaTeste {
 			public static void main(String[] args) { 
@@ -122,4 +122,7 @@ public class exercicioFarmacia {
 			
 			
 			
+			}
+		}
+	}
 }
